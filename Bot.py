@@ -1,14 +1,14 @@
-#Umas bibliotecas ai
+#Bibliotecas
 import discord
 from discord.ext import commands
 from discord.ui import Button, View, Modal, TextInput
 import asyncio  #esse aqui é pra não quebrar nada
 
 #IDs de configuração
-IdDoServidor = ID  #bota o id do servidor ai
+IdDoServidor = ID  #ID do servidor
 IdDoCargo = ID  #aqui vai o cargo que vai ser setado
-IdDoCanalConfirmarRec = ID  #confirmação de recrutamento em, n erra n
-IdDoCanalLogs = ID  #logs do Recrutamento po
+IdDoCanalConfirmarRec = ID  #confirmação de recrutamento
+IdDoCanalLogs = ID  #logs do Recrutamento
 IdDoCanalLogsAguia = ID  #aqui é o logs aguia
 
 #Configuração do bot
